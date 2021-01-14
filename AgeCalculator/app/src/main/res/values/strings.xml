@@ -6,7 +6,7 @@
     <string name="Select">Select</string>
     <string name="calculate">Calculate</string>
     <string name="today" tools:ignore="StringEscaping">Today\'s Date</string>
-    <string name="selected">Selected Date</string>
+    <string name="selected">Date of Birth</string>
     <string name="age_about">__ Years, __ Months,  __ Days</string>
     <string name="age">Your age</string>
 </resources>
